@@ -1,0 +1,19 @@
+{
+    "name": "haojielyb/abchina",
+    "description": "abchinamodels",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "haojielyb\\abchina\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "李永波",
+            "email": "haojielyb@qq.com"
+        }
+    ],
+    "require": {}
+}
